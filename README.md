@@ -5,4 +5,4 @@ Url Test [here](https://www.linkedin.com/in/taturguillaume/)
 ## parts
 * BT01 Intro
 * BT02 GDD
-* BT03 Setup local repo  
+* BT03 Setup local repo 
